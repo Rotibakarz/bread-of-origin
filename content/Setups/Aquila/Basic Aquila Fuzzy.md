@@ -1,3 +1,7 @@
+---
+description: "[[Aquila.png]]"
+---
+
 **Aquila Safejump**
 Ending a combo with Aquila Sets up for an auto-timed Fshiki Safejump.
 
