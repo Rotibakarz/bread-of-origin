@@ -19,3 +19,9 @@
 .explorer li.overflow-end {
     padding: 0rem;
 }
+
+.markdown-rendered img, 
+.cm-embed-block img,
+.markdown-source-view.mod-cm6 .cm-content .image-embed img {
+    vertical-align: middle !important;
+}

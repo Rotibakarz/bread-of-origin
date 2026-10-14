@@ -200,6 +200,8 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+    options:
+      showReadingTime: false
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
