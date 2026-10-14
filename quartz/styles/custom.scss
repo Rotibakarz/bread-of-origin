@@ -1,3 +1,21 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+
+.callout:is([data-callout-metadata^="noicon"]) .callout-icon {
+  display: none;
+}
+
+.explorer h2 {  
+  font-size: 1.1rem;  
+}
+
+.explorer-content li > a,  
+.explorer-content .folder-title {  
+  font-size: 0.9rem;  
+}
+
+.explorer li.overflow-end {
+    padding: 0rem;
+}

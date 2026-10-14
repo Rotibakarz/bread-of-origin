@@ -2,13 +2,12 @@
 - Fshikis
 - Roman Cancels
 ## Spells
-- [[Setups/Slow Staff|Slow Staff]]
+- [[Slow Staff/Slow Staff|Slow Staff]]
 - Highpass
 - Lowpass
 - Gravity Rod
 - Repulsion Rod
-
-- [[Setups/Aquila/Aquila|Aquila]]
+- [[Aquila|Aquila]]
 - Screamer
 - Tardus
 - Arpeggio

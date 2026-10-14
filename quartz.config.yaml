@@ -136,6 +136,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+    options:
+      maxTabs: 8
+      mobileBreakpoint: 800
+      showSpines: false
+      animateTransitions: true
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -157,7 +162,6 @@ plugins:
     enabled: true
     options:
       showFolderCount: false
-      showSubfolders: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
@@ -173,7 +177,6 @@ plugins:
     layout:
       position: right
       priority: 10
-    
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -277,12 +280,22 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:satche/quartz-navbar
+    enabled: false
+    options: 
+      links:
+        - label: Home
+          href: /
+        - label: About
+          href: /about
+    layout:
+      position: header
 layout:
   groups:
     toolbar:
@@ -299,11 +312,8 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions: []
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
     canvas: {}
     bases: {}
