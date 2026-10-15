@@ -35,6 +35,13 @@ p {
   line-height: 1.7rem; // your value  
 }
 
-:root[saved-theme="dark"] {  
-  --gray: #888888;  
+// Graph not showing lines fix
+/* Force canvas container to render link strokes at visible opacity */
+.graph-container canvas {
+  opacity: 1 !important;
+}
+/* Ensure CSS variable resolves properly for canvas JS */
+:root {
+  --gray: #aaaaaaaa !important; /* Forces a solid mid-gray for unhovered links */
+  --lightgray: #2C6D64 !important;
 }
