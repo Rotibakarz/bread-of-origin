@@ -3,7 +3,7 @@ configuration:
   pageTitle: Bread of Origin
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
