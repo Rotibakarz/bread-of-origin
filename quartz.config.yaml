@@ -3,7 +3,7 @@ configuration:
   pageTitle: Bread of Origin
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: false
+  enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
@@ -158,6 +158,7 @@ plugins:
       width: 1200
       height: 630
       excludeRoot: false
+      socialImage: ascii-asuka-intro.png
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
