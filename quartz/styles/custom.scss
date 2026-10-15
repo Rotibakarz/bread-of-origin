@@ -2,27 +2,39 @@
 
 // put your custom CSS here!
 
-
+// callouts with |noicon will not display icon
 .callout:is([data-callout-metadata^="noicon"]) .callout-icon {
   display: none;
 }
 
+// the giant explorer text's font size
 .explorer h2 {  
   font-size: 1.1rem;  
 }
 
+// The explorer folder text sizes
 .explorer-content li > a,  
 .explorer-content .folder-title {  
   font-size: 0.9rem;  
 }
 
+// My attempt at reducing the padding between the explorer text and its folder, probably doesn't do anything
 .explorer li.overflow-end {
     padding: 0rem;
 }
 
+// Vertically align images with text
 .markdown-rendered img, 
 .cm-embed-block img,
 .markdown-source-view.mod-cm6 .cm-content .image-embed img {
     vertical-align: middle !important;
 }
 
+// Adjust line height in a paragraph
+p {  
+  line-height: 1.7rem; // your value  
+}
+
+:root[saved-theme="dark"] {  
+  --gray: #888888;  
+}
