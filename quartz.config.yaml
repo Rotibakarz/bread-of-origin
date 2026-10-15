@@ -155,9 +155,6 @@ plugins:
     enabled: true
     options:
       colorScheme: darkMode
-      width: 1200
-      height: 630
-      excludeRoot: false
       socialImage: "ascii-asuka-intro.png"
   - source: "@quartz-community/cname"
     enabled: true
