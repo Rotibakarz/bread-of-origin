@@ -173,11 +173,13 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      title: Full Order
   - source: "@quartz-community/graph"
     enabled: true
     options:
       localGraph:
-        depth: 1
+        depth: -1
     layout:
       position: right
       priority: 10
@@ -281,7 +283,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
