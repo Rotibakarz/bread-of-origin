@@ -1,10 +1,9 @@
 # Community
-- 📘 [[Resources/Guides／Google Docs|Guides／Google Docs]]
-- 🔴 [[Resources/Streamers|Streamers]]
+- 📘 [[Resources/Guides & Google Docs|Guides & Google Docs]]
+- 🔴 [[Resources/Channels & Streamers|Channels & Streamers]]
 
 # General Knowledge
-- Test Case Overview
-- Spell Knowledge
+- [[Resources/Test Case Overview|Test Case Overview]]
 - Full Order Mini Guide
 - Basic Roundstart Advice
 - OOM Notes
