@@ -1,6 +1,6 @@
 # Community
 - 📘 [[Resources/Guides／Google Docs|Guides／Google Docs]]
-- 🔴 [[Resources/Channels／Streamers|Channels／Streamers]]
+- 🔴 [[Resources/Streamers|Streamers]]
 
 # General Knowledge
 - Test Case Overview

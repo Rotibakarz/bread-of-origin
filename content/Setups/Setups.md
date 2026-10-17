@@ -1,4 +1,3 @@
-
 ## General
 - [[Setups/Fshikis/Fshikis.md|Fshikis]]
 - [[Setups/Roman Cancels/Roman Cancels|Roman Cancels]]
@@ -14,6 +13,7 @@
 - ![[tardus.png|23]] [[Setups/Tardus/Tardus|Tardus]]
 - ![[arpeggio.png|23]] [[Setups/Arpeggio/Arpeggio|Arpeggio]]
 - ![[tp.png|23]] [[Setups/Teleport/Teleport|Teleport]]
+
 ## Misc
 - [[Setups/Niche/Niche|Niche]]
 
