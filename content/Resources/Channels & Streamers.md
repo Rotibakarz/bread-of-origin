@@ -1,4 +1,4 @@
-## ![[TirNaNogAsukaReplays  pfp.jpg|35]] [Tir Na Nog — Asuka Replays](https://youtube.com/@TirNaNogAsukaReplays)
+![[TirNaNogAsukaReplays  pfp.jpg|35]] [Tir Na Nog — Asuka Replays](https://youtube.com/@TirNaNogAsukaReplays)
 If you have replays you're proud of, please send them to us in https://forms.gle/tQW1mYtuLmFUeUNy9
 
 Any level of play is accepted, just make sure the game is not too one sided (no sweeps unless you're the one getting sweeped and you're okay with that)
