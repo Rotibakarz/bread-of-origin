@@ -9,3 +9,4 @@ Welcome to my personal archive of Asuka related resources! If you have any sugge
 - 🕹️[[Combos/Combos|Combos]]
 - 🛡️[[Safejumps/Safejumps|Safejumps]]
 - 📓[[Resources/Resources|Resources]]
+

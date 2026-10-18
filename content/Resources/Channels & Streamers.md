@@ -11,6 +11,7 @@ Any level of play is accepted, just make sure the game is not too one sided (no 
 ## AS
 - ![[twitch.png|24]] | [Komekome](https://www.twitch.tv/surumaiden) - *@surumaiden*
 - ![[twitch.png|24]] | [Huuruiy](https://www.twitch.tv/huuruiy556) - @*huuruiy556*
+- ![[twitch.png|24]] | [ふれすぅ](https://www.twitch.tv/fre5u) -  @fre5u
 - ![[youtube.png|24]] | [Chocoservant](https://www.youtube.com/@chocosevant294) - *@chocoservant294*
 
 

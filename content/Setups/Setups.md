@@ -1,6 +1,9 @@
 ## General
 - [[Setups/Fshikis/Fshikis.md|Fshikis]]
-- [[Setups/Roman Cancels/Roman Cancels|Roman Cancels]]
+- ![[hm.png|30]] [[Setups/Roman Cancels/Roman Cancels|Roman Cancels]]
+- ![[accipiter.png|30]] Accipiter
+- ![[accipiter2.png|30]] Accipiter
+
 ## Staffs
 - ![[slow_staff.png|23]] [[Setups/Slow Staff/Slow Staff|Slow Staff]]
 - ![[highpass.png|23]] [[Setups/Highpass/Highpass|Highpass]]
