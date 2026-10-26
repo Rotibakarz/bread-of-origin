@@ -1,3 +1,8 @@
+---
+socialImage: ascii-asuka-intro.gif
+socialDescription: List of each character's fastest reversal
+---
+
 # Reversals
 
 |   Startup   | Character's Fastest Reversal                                                                                                                                                                                                                                                                                            |
