@@ -17,10 +17,11 @@ socialDescription: List of each character's fastest reversal
 | Overdrive<br>15F | ![[Faust_Chibi.png\|80]]![[Testament_Chibi.png\|80]]                                                                                                                |
 |   HPB<br>(12F)   | ![[Potemkin_Chibi.png\|80]]                                                                                                                                         |
 |       N/A        | ![[Slayer_Chibi.png\|80]]![[Zato_Chibi.png\|80]]![[Chaos_Chibi.png\|80]]![[Asuka_R_Chibi.png\|80]]![[Venom_Chibi.png\|80]]![[Robo-Ky_Chibi.png\|80]]                |
+
 ## Note
 Just because a character has an reversal overdrive doesn't mean they will always have 50 meter, it can be worth checking their meter before deciding between cube oki or a safejump to save resources.
 
 Additional Information:
 - Baiken's 1f parry may seem scary, but it actually loses to projectiles. Fling them cubes my wizards.
 - Ky Kiske despite having a 9f overdrive, will be more likely to use their 11f DP. In a sense it's a knowledge check to see if the Ky player knows which of our safejumps lose to 9f, which there aren't a lot but can lose rounds if called out during our burnout. (Or just don't do the unsafe safejumps in the first place)
-- Potemkin's Heavenly Potemkin Buster actually has invincibility frames on it, allowing it to escape safejumps. But you won't be hit by it either, so it's practically just a 50 meter command jump.
+- Potemkin's Heavenly Potemkin Buster actually has invincibility frames on it, allowing it to escape safejumps. But you won't be hit by it either, so it's practically just a 50 meter command jump. 
