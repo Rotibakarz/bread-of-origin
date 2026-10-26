@@ -13,5 +13,3 @@
 
 - *Resource-less* 6k CH Route
 - Corner 2P RRC
-
-[[Setups/Aquila/Aquila]]

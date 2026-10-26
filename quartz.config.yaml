@@ -164,7 +164,7 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
     options:
       showFolderCount: false
   - source: "@quartz-community/tag-page"
@@ -175,12 +175,13 @@ plugins:
       position: left
       priority: 50
     options:
+      folderClickBehavior: collapse
       title: Full Order
   - source: "@quartz-community/graph"
     enabled: true
     options:
       localGraph:
-        depth: -1
+        depth: 1
     layout:
       position: right
       priority: 10
@@ -200,7 +201,7 @@ plugins:
     options:
       hideWhenEmpty: false
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
@@ -236,7 +237,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
