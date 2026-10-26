@@ -9,4 +9,3 @@ Welcome to my personal archive of Asuka related resources! If you have any sugge
 - 🕹️[[Combos/contents|Combos]]
 - 🛡️[[Safejumps/contents|Safejumps]]
 - 📓[[Resources/contents|Resources]]
-[[Reversal Startup Frame Data]]
