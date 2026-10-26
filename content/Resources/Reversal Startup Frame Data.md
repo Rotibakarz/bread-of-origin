@@ -1,12 +1,12 @@
 # Reversals
 
-| Startup | Characters                                       |
-| :-----: | ------------------------------------------------ |
-|  Parry  | ![[Baiken_Chibi.png\|80]]![[Anji_Chibi.png\|80]] |
-|   9F    |                                                  |
-|   10F   |                                                  |
-|   11F   |                                                  |
-|   12F   |                                                  |
-|   13F   |                                                  |
-|   15F   |                                                  |
-|   N/A   |                                                  |
+| Startup | Characters                                                                                                                                                                                                                                                                                                              |
+| :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Parry  | ![[Baiken_Chibi.png\|80]]![[Anji_Chibi.png\|80]]                                                                                                                                                                                                                                                                        |
+|   9F    | ![[Sol_Chibi.png\|80]]![[Bridget_Chibi.png\|80]]![[Sin_Chibi.png\|80]]![[Unika_Chibi.png\|80]]![[Lucy_Chibi.png\|80]]![[Chipp_Chibi.png\|80]]![[Leo_Chibi.png\|80]]![[Millia_Chibi.png\|80]]![[Ramlethal_Chibi.png\|80]]![[Nagoriyuki_Chibi.png\|80]]![[Gio_Chibi.png\|80]]![[I-No_Chibi.png\|80]]![[Ky_Chibi.png\|80]] |
+|   10F   | ![[May_Chibi.png\|80]]![[Goldlewis_Chibi.png\|80]]![[ABA_Chibi.png\|80]]![[Jam_Chibi.png\|80]]                                                                                                                                                                                                                          |
+|   11F   | ![[Jack-O_Chibi.png\|80]]![[Johnny_Chibi.png\|80]]                                                                                                                                                                                                                                                                      |
+|   12F   | ![[Dizzy_Chibi.png\|80]]![[Potemkin_Chibi.png\|80]]                                                                                                                                                                                                                                                                     |
+|   13F   | ![[Axl_Chibi.png\|80]]![[Bedman_Chibi.png\|80]]![[Elphelt_Chibi.png\|80]]                                                                                                                                                                                                                                               |
+|   15F   | ![[Faust_Chibi.png\|80]]![[Testament_Chibi.png\|80]]                                                                                                                                                                                                                                                                    |
+|   N/A   | ![[Slayer_Chibi.png\|80]]![[Zato_Chibi.png\|80]]![[Chaos_Chibi.png\|80]]![[Asuka_R_Chibi.png\|80]]![[Venom_Chibi.png\|80]]![[Robo-Ky_Chibi.png\|80]]                                                                                                                                                                    |
