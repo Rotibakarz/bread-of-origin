@@ -1,3 +1,9 @@
+---
+title: Setups
+socialDescription: Asuka Setups
+socialImage: blank
+---
+
 [[index|Home]] ❯ [[Setups/Contents|Setups]]
 # Setups
 ## General

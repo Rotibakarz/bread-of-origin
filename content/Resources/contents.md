@@ -1,7 +1,7 @@
 ---
 title: Resources
 socialDescription: Asuka related info, misc tech and guides/streamers.
-socialImage:
+socialImage: my-images/tome-of-origin.png
 ---
 
 [[index|Home]] ❯ [[Resources/Contents|Resources]]

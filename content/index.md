@@ -1,7 +1,8 @@
 ---
 title: The Archive
 socialDescription: Created by Roti Bakarzz 🍞.
-socialImage: my-images/tome-of-origin-smol.png
+socialImage: my-images/tome-of-origin.png
+unlisted: "true"
 ---
 ![[ascii-asuka-intro.gif]]
 # Overview
