@@ -1,3 +1,9 @@
+---
+title: Combos
+socialDescription: Asuka Combos
+socialImage: blank
+---
+
 [[index|Home]] ❯ [[Combos/Contents|Combos]]
 # Combos
 ## Bread N Butter

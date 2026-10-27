@@ -1,3 +1,9 @@
+---
+title: Safejumps
+socialDescription: Asuka Safejumps
+socialImage: blank
+---
+
 [[index|Home]] ❯ [[Safejumps/Contents|Safejumps]]
 # Safejump
 > Note: Safejumps marked with an \*asterisk will only work against reversals that are 10f or slower.

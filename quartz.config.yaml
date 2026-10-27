@@ -256,8 +256,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Asukacord: https://discord.gg/c3nsfV9Vdm
+        Twitter: https://x.com/RotiBakarzz
     layout:
       position: footer
       priority: 50

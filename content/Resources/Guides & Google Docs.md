@@ -1,3 +1,4 @@
+[[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Guides & Google Docs|Guides & Google Docs]]
 # 📝Community Guides
 ### Zikradvd
 - ![[youtube.png|24]] │ [The Updated Asuka Mixup Showcase](https://www.youtube.com/watch?v=2HdV2cU_mKI) 

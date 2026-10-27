@@ -1,2 +1,0 @@
-# Placeholder
-TKs and stuff
