@@ -1,6 +1,7 @@
 ---
 title: The Archive
-socialImage: '"my-images/tome-of-origin.png"'
+socialDescription: Idk what to write here
+socialImage: my-images/ascii-asuka-intro.gif
 ---
 ![[ascii-asuka-intro.gif]]
 # Overview
