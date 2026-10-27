@@ -1,3 +1,8 @@
+---
+title: Resources
+socialDescription: Asuka related info, misc tech and guides/streamers.
+---
+
 [[index|Home]] ❯ [[Resources/Contents|Resources]]
 # Resources
 # Community

@@ -1,7 +1,7 @@
 ---
 title: The Archive
-socialDescription: Created by Roti Bakarz 🍞
-socialImage: my-images/ascii-asuka-intro.gif
+socialDescription: Created by Roti Bakarzz 🍞.
+socialImage: my-images/tome-of-origin.png
 ---
 ![[ascii-asuka-intro.gif]]
 # Overview
