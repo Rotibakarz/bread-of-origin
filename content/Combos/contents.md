@@ -1,3 +1,5 @@
+[[index|Home]] ❯ [[Combos/Contents|Combos]]
+# Combos
 ## Bread N Butter
 - BnB Combo
 - Charged Dust (CH Punish)

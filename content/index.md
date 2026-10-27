@@ -1,5 +1,7 @@
 ---
 title: Table of Contents
+socialDescription: '"Test This is the Description"'
+socialImage: '"my-images/ascii-asuka-intro.gif"'
 ---
 ![[ascii-asuka-intro.gif]]
 # Overview
