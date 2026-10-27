@@ -1,6 +1,6 @@
 ---
 title: The Archive
-socialDescription: Idk what to write here
+socialDescription: Created by Roti Bakarz 🍞
 socialImage: my-images/ascii-asuka-intro.gif
 ---
 ![[ascii-asuka-intro.gif]]
