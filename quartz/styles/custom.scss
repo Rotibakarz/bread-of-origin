@@ -2,40 +2,38 @@
 
 // put your custom CSS here!
 
-// callouts with |noicon will not display icon
-.callout:is([data-callout-metadata^="noicon"]) .callout-icon {
-  display: none;
-}
-
-// the giant explorer text's font size
-.explorer h2 {  
+// # Explorer Plugin 
+// Reduces the header font size fixing the clipping issue it had.
+.explorer h2 {
   font-size: 1.1rem;  
 }
 
-// The explorer folder text sizes
+// Reduces the note's font size to be smaller than the folder. 
 .explorer-content li > a,  
 .explorer-content .folder-title {  
   font-size: 0.9rem;  
 }
 
-// My attempt at reducing the padding between the explorer text and its folder, probably doesn't do anything
+// My attempt at reducing the padding between the explorer text and its folder, probably doesn't do anything.
 .explorer li.overflow-end {
     padding: 0rem;
 }
 
-// Vertically align images with text
+// # Discord Emojis :D
+// Vertically aligns images with text, thank you google ai.
 .markdown-rendered img, 
 .cm-embed-block img,
 .markdown-source-view.mod-cm6 .cm-content .image-embed img {
     vertical-align: middle !important;
 }
 
-// Adjust line height in a paragraph
+// Fixes the ugly increased spacing between paragraphs when using an image.
 p {  
   line-height: 1.7rem; // your value  
 }
 
-// Graph not showing lines fix
+// # Graph Plugin
+// Fixes the lines connecting notes being invisible in graph, I copied this off a discord thread pray it doesn't break anything.
 /* Force canvas container to render link strokes at visible opacity */
 .graph-container canvas {
   opacity: 1 !important;
@@ -44,4 +42,11 @@ p {
 :root {
   --gray: #aaaaaaaa !important; /* Forces a solid mid-gray for unhovered links */
   --lightgray: #2C6D64 !important;
+}
+
+// # Theme Changes
+// Fixes the faded text colour on some paragraphs, god why are these themes broken :<
+:root, :root[saved-theme="dark"] {
+  --text-muted: var(--darkgray);
+  --text-faint: var(--darkgray);
 }

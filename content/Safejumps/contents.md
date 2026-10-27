@@ -2,16 +2,16 @@
 
 ℹ️ [[Backdash OS]] 
 ## Spell-less
-- [[Throw]] 
-- [[Corner Throw]] 
+- [[Throw]]
+- [[Corner Throw]]
 - \*[[Post-Wallbreak]]
-- \*[[6H]] 
+- \*[[6H]]
 - [[Post 5D BRC]]
 - [[Superjump j.K air route]]
 - [[HKD Fshiki (Manual Timed)]]
 ## Spells
-- [[Basic Aquila Fuzzy|Basic Aquila Fuzzy]] 
-- [[2P Abare SJ]] 
+- [[Basic Aquila Fuzzy|Basic Aquila Fuzzy]]
+- [[2P Abare SJ]]
 - [[j.Terra Spell-less SJ]]
 - [[6H Lowpass Setup]]
 - \*[[Aquila Lowpass Setup]]

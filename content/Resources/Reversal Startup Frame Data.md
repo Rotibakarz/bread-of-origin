@@ -17,8 +17,10 @@ socialDescription: List of each character's fastest reversal
 | Overdrive<br>15F | ![[Faust_Chibi.png\|80]]![[Testament_Chibi.png\|80]]                                                                                                                |
 |   HPB<br>(12F)   | ![[Potemkin_Chibi.png\|80]]                                                                                                                                         |
 |       N/A        | ![[Slayer_Chibi.png\|80]]![[Zato_Chibi.png\|80]]![[Chaos_Chibi.png\|80]]![[Asuka_R_Chibi.png\|80]]![[Venom_Chibi.png\|80]]![[Robo-Ky_Chibi.png\|80]]                |
+<br/>
+<br/>
 
-## Note
+## Notes
 Just because a character has an reversal overdrive doesn't mean they will always have 50 meter, it can be worth checking their meter before deciding between cube oki or a safejump to save resources.
 
 Additional Information:
