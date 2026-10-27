@@ -1,3 +1,4 @@
+[[index|Home]] ❯ [[Setups/Contents|Setups]]
 # Setups
 ## General
 - [[Fshikis|Fshikis]]
