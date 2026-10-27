@@ -1,4 +1,5 @@
 ---
+title: The Archive
 socialImage: '"my-images/tome-of-origin.png"'
 ---
 ![[ascii-asuka-intro.gif]]
