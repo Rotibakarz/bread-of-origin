@@ -14,7 +14,7 @@ socialImage: blank
 - Full Order Mini Guide
 - Basic Roundstart Advice
 - OOM Notes
-- [[Resources/Dash Kara|Dash Kara]] 🚧
+- [[Resources/Dash Kara|Dash Kara]]
 - Throw 6H OTG
 
 # Misc Tech
