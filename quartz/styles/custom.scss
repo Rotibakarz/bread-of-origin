@@ -2,6 +2,7 @@
 
 // put your custom CSS here!
 
+
 // # Explorer Plugin 
 // Reduces the header font size fixing the clipping issue it had.
 .explorer h2 {
@@ -19,6 +20,8 @@
     padding: 0rem;
 }
 
+
+
 // # Discord Emojis :D
 // Vertically aligns images with text, thank you google ai.
 .markdown-rendered img, 
@@ -32,6 +35,8 @@ p {
   line-height: 1.7rem; // your value  
 }
 
+
+
 // # Graph Plugin
 // Fixes the lines connecting notes being invisible in graph, I copied this off a discord thread pray it doesn't break anything.
 /* Force canvas container to render link strokes at visible opacity */
@@ -44,12 +49,21 @@ p {
   --lightgray: #2C6D64 !important;
 }
 
+
+
 // # Theme Changes
 // Fixes the faded text colour on some paragraphs, god why are these themes broken :<
 :root, :root[saved-theme="dark"] {
   --text-muted: var(--darkgray);
   --text-faint: var(--darkgray);
 }
+
+// Adds word wrapping for Codeblocks
+pre > code, code[class*="language-"] {
+  white-space: pre-wrap !important;
+}
+
+
 
 // # Bandaid solution to making my own "custom" breadcrumbs.
 // Removes the side line
@@ -66,3 +80,4 @@ blockquote {
 blockquote.transclude > h1:first-of-type {  
   display: none;  
 }
+
