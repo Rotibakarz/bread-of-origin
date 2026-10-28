@@ -31,5 +31,3 @@ c.S/5K > dl dash > 236X/214X/22X/22HX
 It is also possible to delay your dash macro a little later by doing `c.S/5K > dl 2366X`, however you wouldn't be able to dashkara bookmark, recover mana and change testcase with that.
 
 📝*Note: the 3f window only starts the moment your dash actually comes out, NOT the moment you press and buffer the dash button.*
-
-.
