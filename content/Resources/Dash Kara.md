@@ -1,3 +1,9 @@
+---
+title: Dash Kara
+socialDescription: What and how to do a Dash Kara. 🔥🏃‍➡️
+socialImage: blank
+---
+
 [[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Dash Kara|Dash Kara]]
 # Dash Kara
 ## What is a Dash Kara?
