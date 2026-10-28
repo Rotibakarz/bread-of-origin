@@ -50,3 +50,19 @@ p {
   --text-muted: var(--darkgray);
   --text-faint: var(--darkgray);
 }
+
+// # Bandaid solution to making my own "custom" breadcrumbs.
+// Removes the side line
+blockquote {  
+  border-left: none;  
+}
+
+// Removes the bottom "link to original".
+.transclude-src {  
+  display: none;  
+}
+
+// Removes the title header.
+blockquote.transclude > h1:first-of-type {  
+  display: none;  
+}

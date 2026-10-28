@@ -1,5 +1,4 @@
-[[index|Home]] ❯ [[Aquila]]/[[Safejumps/Contents|Safejumps]] ❯ [[Basic Aquila Fuzzy]]
-
+[[index|Home]] ❯ [[Setups/Contents|Setups]] ❯ [[Aquila]] ❯ [[Basic Aquila Fuzzy]]
 # Basic Aquila Fuzzy
 **Ending a combo with Aquila Sets up for an auto-timed Fshiki Safejump.**
 
