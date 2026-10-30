@@ -8,7 +8,7 @@ socialImage: blank
 ## Community
 - 📘 [[Resources/Guides & Google Docs|Guides & Google Docs]]
 - 🔴 [[Resources/Channels & Streamers|Channels & Streamers]]
-- ▶️ [Replay Theater](https://replaytheater.app/?game=strive&c1=Asuka+R%E2%99%AF)
+- 🎥 [Replay Theater](https://replaytheater.app/?game=strive&c1=Asuka+R%E2%99%AF)
 ## General Knowledge
 - [[Resources/Test Case Overview|Test Case Overview]] 🚧
 - Full Order Mini Guide

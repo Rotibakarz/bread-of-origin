@@ -9,6 +9,7 @@ socialImage: blank
 ## What is a Dash Kara?
 Dash Kara is a technique where you kara cancel the first 3 frames of a dash cancel into a special move.
 
+*Dash Kara Showcase*
 ![[dashkara_showcase.gif|250]]
 
 Kara cancelling takes the startup properties of one move and applies them to the other, in this case we are taking the startup dash momentum of the dash cancel and applying it to our chant. 
@@ -26,7 +27,7 @@ As stated above, you want to quickly do a special move within a 3f window after 
 c.S/5K > dl dash > 236X/214X/22X/22HX
 ```
 
-*Dash Kara Input*
+*5K > Dash > 236P*
 ![[dashkara_input_example.gif|400]]
 
 You also ideally want your buffered dash macro to come out on [5] before the special move. Not that you can't input something like `c.S/5K > dl 2366X`, however you wouldn’t be able to dashkara bookmark, recover mana or change testcase with that.
