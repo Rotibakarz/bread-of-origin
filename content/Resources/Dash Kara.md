@@ -16,7 +16,7 @@ Kara cancelling takes the startup properties of one move and applies them to the
 
 This is incredibly useful for Asuka's combo optimizations and blockstrings as it keeps you close to the opponent without needing to spend extra resources, which for THE resource management character, is very helpful. I’d say it’s one of the first more ‘advanced’ things you should learn if you’re trying to do small optimizations that matter a lot
 
-*Dash Kara Showcase*
+*To Dash Kara, or not to Dash Kara*
 ![[dashkara_no.gif|250]] ![[dashkara_yes.gif|250]]
 
 In the first example, even though Asuka is `+5`, because he gets pushed out too far, he has to run back in, causing him to trade or even lose to Sol. In the second example, because the dash kara keeps Asuka close to Sol, Asuka can just immediately press `5K`, frametrapping Sol.
