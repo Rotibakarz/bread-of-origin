@@ -11,14 +11,15 @@ socialImage: blank
 - 🎥 [Replay Theater](https://replaytheater.app/?game=strive&c1=Asuka+R%E2%99%AF)
 ## General Knowledge
 - [[Resources/Test Case Overview|Test Case Overview]] 🚧
-- Full Order Mini Guide
+- Spell Cancel Frame Data
 - Basic Roundstart Advice
 - OOM Notes
 - [[Resources/Dash Kara|Dash Kara]]
-- Throw 6H OTG
+- Full Order Mini Guide
+- 
 ## Misc Tech
+- Throw 6H OTG
 - Fowards momentum has lower pushback
+-  Hitstop OS Confirm
 - Ancient TC kara FO scrolls
 - 📶 Rollback Tech
-- Hitstop OS Confirm
-- GGST Frame Viewer + Replay Takeover Mod

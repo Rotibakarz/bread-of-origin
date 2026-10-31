@@ -1,6 +1,6 @@
 ---
 title: Setups
-socialDescription: Asuka Setups
+socialDescriptionAsuka Setups: The Ultimate Setup Compendium
 socialImage: blank
 ---
 [[index|Home]] ❯ [[Setups/Contents|Setups]]
@@ -8,7 +8,7 @@ socialImage: blank
 ## General
 - [[Fuzzies]]
 - [[Roman Cancels]]
-
+- [[Niche]]
 ## Staffs
 - ![[slow_staff.png|30]] [[Slow Staff]]
 - ![[highpass.png|30]] [[Highpass]]
@@ -22,7 +22,5 @@ socialImage: blank
 - ![[arpeggio.png|30]] [[Arpeggio]]
 - ![[tp.png|30]] [[Teleport]]
 
-## Misc
-- [[Niche]]
 
 
