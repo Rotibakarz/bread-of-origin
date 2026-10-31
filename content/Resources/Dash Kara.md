@@ -7,24 +7,26 @@ socialImage: blank
 [[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Dash Kara|Dash Kara]]
 # Dash Kara
 ## What is a Dash Kara?
-Dash Kara is a technique where you kara cancel the first 3 frames of a dash cancel into a special move.
+Dash Kara is a technique that grants your special move a burst of momentum forward, this is done by performing a dash cancel (`c.S/5K > 66`), then cancelling the first 3 frames of it into a special move.
 
 *Dash Kara Showcase*
 ![[dashkara_showcase.gif|250]]
 
-Kara cancelling takes the startup properties of one move and applies them to the other, in this case we are taking the startup dash momentum of the dash cancel and applying it to our chant. 
+Because Dash Karas push you forward, it allows you to stay close to the opponent. Normally you would have to spend more resources to get back in however Dash Karas allow you to keep that turn for much longer.
 
-This is incredibly useful for Asuka's combo optimizations and blockstrings as it keeps you close to the opponent without needing to spend extra resources, which for THE resource management character, is very helpful. I’d say it’s one of the first more ‘advanced’ things you should learn if you’re trying to do small optimizations that matter a lot
+This is also great for combo optimizations, allowing you to get back more resources during a combo and keeping the combo going for longer without dropping.
+
+I’d say it’s one of the first more ‘advanced’ things you should learn if you’re trying to do small optimizations that matter a lot
 
 *To Dash Kara, or not to Dash Kara*
 ![[dashkara_no.gif|250]] ![[dashkara_yes.gif|250]]
 
-In the first example, even though Asuka is `+5`, because he gets pushed out too far, he has to run back in, causing him to trade or even lose to Sol. In the second example, because the dash kara keeps Asuka close to Sol, Asuka can just immediately press `5K`, frametrapping Sol.
+In the first example, although Asuka has frame advantage, because he gets pushed out too far he has to waste time running back in which gets him mashed on by Sol. In the second example, because the Dash Kara keeps Asuka close to Sol, he can just immediately press `5K` which catches the Sol trying to mash.
 ## How do I perform a Dash Kara?
 As stated above, you want to quickly do a special move within a 3f window after the dash cancel. The trick here is to press `c.S/5K`, slightly delay a buffered dash macro followed by your special move.
 
 ```
-c.S/5K > dl dash > 236X/214X/22X/22HX
+c.S/5K > dl 66 > 236X/214X/22X/22HX
 ```
 
 *5K > Dash > 236P*
@@ -36,3 +38,5 @@ You also ideally want your buffered dash macro to come out on [5] before the spe
 ![[dashkara_flame.gif]]
 
 📝*Note: the 3f window only starts the moment your dash actually comes out, NOT the moment you press and buffer the dash button.*
+
+
