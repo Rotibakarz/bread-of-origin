@@ -3,7 +3,7 @@ title: Guides & Google Docs
 socialDescription: Archive of community made guides and google docs.
 socialImage: blank
 ---
-[[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Guides & Google Docs|Guides & Google Docs]]
+[[index|Home]] ❯ [[Resources MOC|Resources]] ❯ [[Resources/Guides & Google Docs|Guides & Google Docs]]
 # 📝Community Resources
 
 | Name       | Guide/Doc                                                                                                                                                                                                        |
@@ -29,3 +29,4 @@ Due to the nature of Asuka's complex kit, he hasn't had too many drastic changes
 | Krakeninajar     | ![[docs.png\|24]] │ [Asuka Tech Doc](https://docs.google.com/document/d/10q9QOwO7BLQpQepVzbg_hIflNQ0wSiLSYfUxjUfjc7o/edit?pli=1&tab=t.0)                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | JoeTheLazy       | ![[docs.png\|24]] │ [JoeTheLazy's Asuka Guide](https://docs.google.com/document/d/1jHzwsAKrcrJE_fiobvijGPpVtmbSFgag0jxekDI5MFg/edit?tab=t.0#heading=h.hdtrzohiprfe)                                                                                                                                                                                                                                                                                                                                                                                              |
 | Rhag the Ducktle | ![[docs.png\|24]] │ [Rhag the Ducktle's Spell Breakdown Document](https://docs.google.com/document/d/19UZvp26ndKapKSW4OXpZMO-vwhWnlfbZ3nctbzfe-E4/edit?tab=t.0)                                                                                                                                                                                                                                                                                                                                                                                                  |
+

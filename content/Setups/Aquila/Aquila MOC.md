@@ -1,4 +1,4 @@
-[[index|Home]] ❯ [[Setups/Contents|Setups]] ❯ [[Aquila]]
+[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Aquila MOC]]
 # ![[aquila.png|35]] Aquila
 - [[Basic Aquila Fuzzy|Basic Aquila Fuzzy]]
 - [[Aquila Left Right Fshiki]]

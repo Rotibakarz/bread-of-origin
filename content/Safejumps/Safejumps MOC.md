@@ -3,8 +3,7 @@ title: Safejumps
 socialDescription: Asuka Safejumps
 socialImage: blank
 ---
-
-[[index|Home]] ❯ [[Safejumps/Contents|Safejumps]]
+[[index|Home]] ❯ [[Safejumps MOC|Safejumps]]
 # Safejump
 > Note: Safejumps marked with an \*asterisk will only work against reversals that are 10f or slower.
 
@@ -18,7 +17,7 @@ socialImage: blank
 - [[Superjump j.K air route]]
 - [[HKD Fuzzy (Manual Timed)]]
 ## Spells
-- [[Safejumps/bridge|Basic Aquila Fuzzy]]
+- [[Basic Aquila Fuzzy Bridge|Basic Aquila Fuzzy]]
 - [[2P Abare SJ]]
 - [[j.Terra Spell-less SJ]]
 - [[6H Lowpass Setup]]

@@ -4,7 +4,7 @@ socialDescription: Asuka Combos
 socialImage: blank
 ---
 
-[[index|Home]] ❯ [[Combos/Contents|Combos]]
+[[index|Home]] ❯ [[Combos MOC|Combos]]
 # Combos
 ## Bread N Butter
 - BnB Combo

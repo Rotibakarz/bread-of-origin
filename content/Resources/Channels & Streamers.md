@@ -4,7 +4,7 @@ socialDescription: Asuka players to watch & show them some love.
 socialImage: blank
 ---
 
-[[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Channels & Streamers|Channels & Streamers]]
+[[index|Home]] ❯ [[Resources MOC|Resources]] ❯ [[Resources/Channels & Streamers|Channels & Streamers]]
 # Channels & Streamers
 ## 🎬Asukacord Replay Channel
  ![[TirNaNogAsukaReplays_pfp.jpg|60]] 
