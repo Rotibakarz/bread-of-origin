@@ -10,6 +10,8 @@ socialImage: blank
 - BnB Combo
 - Charged Dust (CH Punish)
 ## Optimal
+- [[Combos/DP Punish]]
+
 - THE NUKE CH Punish
 - Tc2 Highpass CH Punish
 - Tension Only CH Punish

@@ -18,7 +18,7 @@ socialImage: blank
 - [[Superjump j.K air route]]
 - [[HKD Fuzzy (Manual Timed)]]
 ## Spells
-- [[Basic Aquila Fuzzy|Basic Aquila Fuzzy]]
+- [[Safejumps/bridge|Basic Aquila Fuzzy]]
 - [[2P Abare SJ]]
 - [[j.Terra Spell-less SJ]]
 - [[6H Lowpass Setup]]

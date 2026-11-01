@@ -3,7 +3,6 @@ title: Guides & Google Docs
 socialDescription: Archive of community made guides and google docs.
 socialImage: blank
 ---
-
 [[index|Home]] ❯ [[Resources/Contents|Resources]] ❯ [[Resources/Guides & Google Docs|Guides & Google Docs]]
 # 📝Community Resources
 

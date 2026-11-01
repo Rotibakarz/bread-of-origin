@@ -1,0 +1,3 @@
+- Fake Safejump Throw
+- Left Right Oki
+- Corner High Low

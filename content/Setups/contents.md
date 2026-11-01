@@ -7,6 +7,7 @@ socialImage: blank
 # Setups
 ## General
 - [[Fuzzies]]
+- [[Throws]]
 - [[Roman Cancels]]
 - [[Niche]]
 ## Staffs
