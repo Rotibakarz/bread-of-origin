@@ -2,6 +2,7 @@
 title: Combos
 socialDescription: Asuka Combos
 socialImage: blank
+not-index: "true"
 ---
 
 [[index|Home]] ❯ [[Combos MOC|Combos]]
