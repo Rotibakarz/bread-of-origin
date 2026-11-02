@@ -24,3 +24,6 @@ socialImage: blank
 - ![[tp.png|30]] [[Teleport MOC|Teleport]] 🚧
 
 
+<a href="https://bread-of-origin.pages.dev/setups/madison-curry-mix">
+  <img src=aquila.png alt="[alt text]" width="100"> 
+</a>

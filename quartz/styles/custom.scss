@@ -63,6 +63,12 @@ pre > code, code[class*="language-"] {
   white-space: pre-wrap !important;
 }
 
+// Fixes tags taking up the full screen
+article a.internal-link.tag-link {
+  display: inline-flex !important;
+  width: auto;
+  vertical-align: baseline;
+}
 
 
 // # Bandaid solution to making my own "custom" breadcrumbs.
