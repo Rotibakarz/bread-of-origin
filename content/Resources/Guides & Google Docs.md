@@ -6,11 +6,11 @@ socialImage: blank
 [[index|Home]] ❯ [[Resources MOC|Resources]] ❯ [[Resources/Guides & Google Docs|Guides & Google Docs]]
 # 📝Community Resources
 
-| Name       | Guide/Doc                                                                                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Zikradvd   | ![[youtube.png\|24]] │ [The Updated Asuka Mixup Showcase](https://www.youtube.com/watch?v=2HdV2cU_mKI) <br>![[youtube.png\|24]] │ [An Asuka R. Kreutz RPS Showcase](https://www.youtube.com/watch?v=UShYRmNSV3Y) |
-| Madison    | ![[notion.png\|24]] │ [Dark Magician Girl’s Asuka Compendium](https://app.notion.com/p/Dark-Magician-Girl-s-Asuka-Compendium-363b24bb58c18076b2e3cc7159d5b6f2)                                                   |
-| Jinsang    | ![[youtube.png\|24]] │ [Setups, Mixups & Combo Conversions](https://www.youtube.com/@divine-jzb1427/playlists)                                                                                                   |
+| Name     | Guide/Doc                                                                                                                                                                                                        |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zikradvd | ![[youtube.png\|24]] │ [The Updated Asuka Mixup Showcase](https://www.youtube.com/watch?v=2HdV2cU_mKI) <br>![[youtube.png\|24]] │ [An Asuka R. Kreutz RPS Showcase](https://www.youtube.com/watch?v=UShYRmNSV3Y) |
+| Madison  | ![[notion.png\|24]] │ [Dark Magician Girl’s Asuka Compendium](https://app.notion.com/p/Dark-Magician-Girl-s-Asuka-Compendium-363b24bb58c18076b2e3cc7159d5b6f2)                                                   |
+| Jinsang  | ![[youtube.png\|24]] │ [Setups, Mixups & Combo Conversions Playlist](https://www.youtube.com/@divine-jzb1427/playlists)                                                                                          |
 
 <br/>
 <br/>

@@ -1,3 +1,3 @@
-[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Niche MOC]]
+[[index|Home]] ❯ [[Old Setups MOC|Setups]] ❯ [[Niche MOC]]
 # Niche
 placeholder

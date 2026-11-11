@@ -1,3 +1,3 @@
-[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯ [[IAD Screamer Crossup]]
+[[index|Home]] ❯ [[Old Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯ [[IAD Screamer Crossup]]
 # IAD Screamer Crossup
 placeholder

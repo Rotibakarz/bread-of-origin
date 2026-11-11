@@ -1,4 +1,4 @@
-[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯ [[Basic Aquila Fuzzy]]
+[[index|Home]] ❯ [[Old Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯ [[Basic Aquila Fuzzy]]
 # Basic Aquila Fuzzy
 **Ending a combo with Aquila Sets up for an auto-timed Fshiki Safejump.**
 

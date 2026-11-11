@@ -1,4 +1,4 @@
-[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Throws MOC|Throws]]
+[[index|Home]] ❯ [[Old Setups MOC|Setups]] ❯ [[Throws MOC|Throws]]
 # Throws
 - Fake Safejump Throw
 - Left Right Oki

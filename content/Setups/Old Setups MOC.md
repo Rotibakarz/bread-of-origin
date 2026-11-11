@@ -3,7 +3,7 @@ title: Setups
 socialDescriptionAsuka Setups: The Ultimate Setup Compendium
 socialImage: blank
 ---
-[[index|Home]] ❯ [[Setups MOC|Setups]]
+[[index|Home]] ❯ [[Old Setups MOC|Setups]]
 # Setups
 ## General
 - [[Fuzzies MOC|Fuzzies]] 🚧

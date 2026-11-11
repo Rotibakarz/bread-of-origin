@@ -1,4 +1,4 @@
 #SlowStaf #Aquila #Tardus
-[[index|Home]] ❯ [[Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯
+[[index|Home]] ❯ [[Old Setups MOC|Setups]] ❯ [[Aquila MOC]] ❯
 # MCM Mix
 placeholder
