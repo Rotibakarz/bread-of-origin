@@ -3,7 +3,11 @@ title: Resources
 socialDescription: Asuka related info, misc tech and guides/streamers.
 socialImage: blank
 ---
-[[index|Home]] ❯ [[Resources MOC|Resources]]
+![[back-arrow.png|22]] [[index|Home]]
+![[c-back-arrow.png|22]] [[index|Home]]
+![[b-back-arrow.png|22]] [[index|Home]]
+![[br-back-arrow.png|22]] [[index|Home]]
+![[e-back-arrow.png|22]] [[index|Home]]
 # Resources
 ## Community
 - 🌐 [Asuka Dustloop Wiki](https://www.dustloop.com/w/GGST/Asuka_R)
