@@ -4,7 +4,7 @@ socialDescription: What and how to do a Dash Kara. 🔥🏃‍➡️
 socialImage: blank
 ---
 
-[[index|Home]] ❯ [[Resources MOC|Resources]] ❯ [[Resources/Dash Kara|Dash Kara]]
+[[index|Home]] ❯ [[resources-index|Resources]] ❯ [[Resources/Dash Kara|Dash Kara]]
 # Dash Kara
 ## What is a Dash Kara?
 Dash Kara is a technique that grants your special move a burst of momentum forward, this is done by performing a dash cancel (`c.S/5K > 66`), then cancelling the first 3 frames of it into a special move.

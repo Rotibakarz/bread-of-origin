@@ -1,2 +1,0 @@
-- 2D/Throw Crossup Mix
-- 

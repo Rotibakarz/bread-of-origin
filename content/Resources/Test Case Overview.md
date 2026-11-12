@@ -1,9 +1,9 @@
 ---
 title: Test Case Overview
 ---
-[[index|Home]] ❯ [[Resources MOC|Resources]] ❯ [[Resources/Test Case Overview|Test Case Overview]]
+[[index|Home]] ❯ [[resources-index|Resources]] ❯ [[Resources/Test Case Overview|Test Case Overview]]
 # Test Case Overview
-![[testcaseoverview.png]]
+![[testcase-overview.png]]
 
 # Placeholder
 Write about the differences between the test cases, strengths and weakness.

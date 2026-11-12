@@ -87,4 +87,9 @@ blockquote.transclude > h1:first-of-type {
   display: none;  
 }
 
-
+// Changes the highlight to look exactly like a Wikilink.
+// Why? Cus I don't like how External Links look different from Internal Links.
+.text-highlight {
+  color: #D97745;
+  background-color: #583F35; 
+}

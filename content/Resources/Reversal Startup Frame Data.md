@@ -6,17 +6,17 @@ socialDescription: List of each character's fastest reversal
 
 |     Startup      | Character's Fastest Reversal                                                                                                                                        |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   Parry<br>1F    | ![[Baiken_Chibi.png\|80]]                                                                                                                                           |
-| Overdrive<br>1F  | ![[Anji_Chibi.png\|80]]                                                                                                                                             |
-|     DP<br>9F     | ![[Sol_Chibi.png\|80]]![[Bridget_Chibi.png\|80]]![[Sin_Chibi.png\|80]]![[Unika_Chibi.png\|80]]![[Lucy_Chibi.png\|80]]![[Chipp_Chibi.png\|80]]![[Leo_Chibi.png\|80]] |
-| Overdrive<br>9F  | ![[Ky_Chibi.png\|80]]![[Millia_Chibi.png\|80]]![[Ramlethal_Chibi.png\|80]]![[Nagoriyuki_Chibi.png\|80]]![[Gio_Chibi.png\|80]]![[I-No_Chibi.png\|80]]                |
-| Overdrive<br>10F | ![[May_Chibi.png\|80]]![[Goldlewis_Chibi.png\|80]]![[ABA_Chibi.png\|80]]![[Jam_Chibi.png\|80]]                                                                      |
-| Overdrive<br>11F | ![[Jack-O_Chibi.png\|80]]![[Johnny_Chibi.png\|80]]                                                                                                                  |
-| Overdrive<br>12F | ![[Dizzy_Chibi.png\|80]]                                                                                                                                            |
-| Overdrive<br>13F | ![[Axl_Chibi.png\|80]]![[Bedman_Chibi.png\|80]]![[Elphelt_Chibi.png\|80]]                                                                                           |
-| Overdrive<br>15F | ![[Faust_Chibi.png\|80]]![[Testament_Chibi.png\|80]]                                                                                                                |
-|   HPB<br>(12F)   | ![[Potemkin_Chibi.png\|80]]                                                                                                                                         |
-|       N/A        | ![[Slayer_Chibi.png\|80]]![[Zato_Chibi.png\|80]]![[Chaos_Chibi.png\|80]]![[Asuka_R_Chibi.png\|80]]![[Venom_Chibi.png\|80]]![[Robo-Ky_Chibi.png\|80]]                |
+|   Parry<br>1F    | ![[baiken_chibi.png\|80]]                                                                                                                                           |
+| Overdrive<br>1F  | ![[anji_chibi.png\|80]]                                                                                                                                             |
+|     DP<br>9F     | ![[sol_chibi.png\|80]]![[bridget_chibi.png\|80]]![[sin_chibi.png\|80]]![[unika_chibi.png\|80]]![[lucy_chibi.png\|80]]![[chipp_chibi.png\|80]]![[leo_chibi.png\|80]] |
+| Overdrive<br>9F  | ![[ky_chibi.png\|80]]![[millia_chibi.png\|80]]![[ramlethal_chibi.png\|80]]![[nagoriyuki_chibi.png\|80]]![[gio_chibi.png\|80]]![[i-no_chibi.png\|80]]                |
+| Overdrive<br>10F | ![[may_chibi.png\|80]]![[goldlewis_chibi.png\|80]]![[aba_chibi.png\|80]]![[jam_chibi.png\|80]]                                                                      |
+| Overdrive<br>11F | ![[jack-o_chibi.png\|80]]![[johnny_chibi.png\|80]]                                                                                                                  |
+| Overdrive<br>12F | ![[dizzy_chibi.png\|80]]                                                                                                                                            |
+| Overdrive<br>13F | ![[axl_chibi.png\|80]]![[bedman_chibi.png\|80]]![[elphelt_chibi.png\|80]]                                                                                           |
+| Overdrive<br>15F | ![[faust_chibi.png\|80]]![[testament_chibi.png\|80]]                                                                                                                |
+|   HPB<br>(12F)   | ![[potemkin_chibi.png\|80]]                                                                                                                                         |
+|       N/A        | ![[slayer_chibi.png\|80]]![[zato_chibi.png\|80]]![[chaos_chibi.png\|80]]![[asuka_r_chibi.png\|80]]![[venom_chibi.png\|80]]![[robo-ky_chibi.png\|80]]                |
 <br/>
 <br/>
 

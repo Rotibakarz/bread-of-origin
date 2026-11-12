@@ -1,3 +1,0 @@
-- TKs
-- TK Tardus Fake Fshiki
-- 

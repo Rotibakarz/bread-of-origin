@@ -1,0 +1,2 @@
+- Basic Tumble DHM WB from tapdust. 6H is rather unique as it is both an important combo ender and combo extender as well. It causes an extremely long tumble into HKD, this tumble state allows spells to hit it, this is where DHM routes come in
+- Corner BnB with grav staff.
