@@ -13,11 +13,11 @@ Lowpass BRC Fuzzy
 Corner j.D BRC j.D fuzzy
 Mindcontrol Deccel Fuzzy
 Highpass falling fuzzy
-Aquila Lowpass Setup
+
 Screamer Fuzzy
 BRC Lowpass Fuzzy
 Basic Aquila Fuzzy
-Aquila Crossup Fuzzy
+
 
 ## Instant Overheads
 Tardus corner highlow
