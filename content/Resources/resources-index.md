@@ -24,6 +24,6 @@ socialImage: blank
 - Ancient TC kara FO scrolls
 - 📶 Rollback Tech
 ## Lore
-- [Guilty Gear Wiki](https://guiltygear.wiki.gg/)
-	- [Asuka R. Kreutz](https://guiltygear.wiki.gg/wiki/Asuka_R._Kreutz)
-	- [Asuka R♯](https://guiltygear.wiki.gg/wiki/Asuka_R%E2%99%AF) *(Yes these are two different people)*
+- [==Guilty Gear Wiki==](https://guiltygear.wiki.gg/)
+	- [==Asuka R. Kreutz==](https://guiltygear.wiki.gg/wiki/Asuka_R._Kreutz)
+	- [==Asuka R♯==](https://guiltygear.wiki.gg/wiki/Asuka_R%E2%99%AF) *(Yes, these are two different people)*

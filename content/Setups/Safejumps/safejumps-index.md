@@ -3,7 +3,7 @@ title: Safejumps
 socialDescription: Asuka Safejumps
 socialImage: blank
 ---
-[[index|Home]] ❯ [[safejumps-index|Safejumps]]
+[[index|Home]] ❯ [[setups-index|Setups]] ❯ [[safejumps-index|Safejumps]]
 # Safejump
 ℹ️ [[Backdash OS]]
 ## Spell-less

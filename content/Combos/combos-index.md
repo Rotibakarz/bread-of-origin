@@ -12,6 +12,6 @@ socialImage: blank
 - [[Combos/Air Route]]
 ## Optimals
 - [[DP Punish]]
-- 
+- Resource-less 6K CH 
 ## Misc
 - Tc3 Delusional Mixups
