@@ -17,5 +17,5 @@ socialImage: blank
 ## Spells
 - [[2P HM Abare]]
 - [[j.Terra]]
-- 13f Reversal Safe Meaty
+- [[13f Reversal Safejab]]
 

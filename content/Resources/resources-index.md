@@ -10,16 +10,18 @@ socialImage: blank
 - 📘 [[Guides & Google Docs|Guides & Google Docs]]
 - 🔴 [[Channels & Streamers|Channels & Streamers]]
 - 🎥 [==Replay Theater==](https://replaytheater.app/?game=strive&c1=Asuka+R%E2%99%AF)
-## Offense
-- [[Resources/Test Case Overview|Test Case Overview]] 🚧
-- Basic Roundstart Advice
+## Information
+- [[Resources/Test Case Overview|Test Case Overview]]
+- [[Reversal Startup Frame Data]]
 - Spell Cancel Frame Data
+## Offense
+- Basic Roundstart Advice
 - OOM Notes
 - [[Resources/Dash Kara|Dash Kara]]
 - Full Order Mini Guide
 ## Misc Tech
 - Throw 6H OTG
-- [[Fowards momentum has lower pushback]] 🚧
+- [[Fowards momentum has lower pushback]]
 -  Hitstop OS Confirm
 - Ancient TC kara FO scrolls
 - 📶 Rollback Tech
