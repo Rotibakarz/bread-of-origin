@@ -1,8 +1,8 @@
-Basic Arpeggio Mixes
-Accipiter Blockstrings
-Tap Dust sequences or something? idk
+# Blockstrings
+- Basic Arpeggio Mixes
+- Accipiter Blockstrings
+- Tap Dust sequences or something?
+- Meterless Tapdust from any staff
+- Temu BWA
+- IABD BRC Fling Tech
 
-
-Temu BWA
-IABD BRC Fling Tech
-Forbidden Infinite Scrolls

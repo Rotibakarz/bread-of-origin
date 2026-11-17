@@ -6,24 +6,14 @@ socialImage: blank
 [[index|Home]] ❯ [[setups-index|Setups]] ❯ [[highlow|High/Lows]]
 # High/Lows
 ## Fuzzies
-- TKs
-
-
-- Dashkara FRC LeftRight Fuzzy
-- BRC Fuzzy
-- Lowpass BRC Fuzzy
-
-- Highpass falling fuzzy
-
-- Screamer Fuzzy
-- BRC Lowpass Fuzzy
-
-
+- [[TKs]] `5/5`
+- TK BRC Fuzzy
+- Corner j.D BRC j.D fuzzy
+- Dashkara FRC LeftRight Fuzzy 
+- Basic Aquila Fuzzy
 ## Instant Overheads
-- Tardus corner highlow
-- Highpass j.D FRC j.P
+- [[Accipiter Fuzzy]] `3/5`
 - RRC Instant Overhead
-- BRC Accipiter Fuzzy Mix
-- IAD Screamer Fuzzy
-- j.P hit > IAD screamer Fuzzy
-- Mindcontrol Deccel Fuzzy
+- [[IAD Screamer Fuzzy]] `3/5`
+## High/Low Mixups
+- Corner High/Low
