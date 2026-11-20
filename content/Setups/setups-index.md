@@ -1,6 +1,6 @@
 ---
 title: Setups
-socialDescriptionAsuka Setups: The Ultimate Setup Compendium.
+socialDescription: The Ultimate Setup Compendium.
 socialImage: my-images/tnn-cover-1.gif
 ---
 ![[tnn-stage-1.gif]]
