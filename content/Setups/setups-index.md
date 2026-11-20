@@ -3,6 +3,8 @@ title: Setups
 socialDescriptionAsuka Setups: The Ultimate Setup Compendium.
 socialImage: blank
 ---
+![[tnn-stage-1.gif]]
+
 [[index|Home]] ❯ [[setups-index|Setups]]
 # Setups
 ℹ️ Setups are ranked from 1 - 5 based on how useful they are to learn, each rank explained [[Setup Ranking System|here]].

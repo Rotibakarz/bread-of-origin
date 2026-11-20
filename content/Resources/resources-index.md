@@ -3,6 +3,8 @@ title: Resources
 socialDescription: Asuka related info, misc tech and guides/streamers.
 socialImage: blank
 ---
+![[tnn-stage-3.gif]]
+
 [[index|Home]] ❯ [[resources-index|Resources]]
 # Resources
 ## Community
