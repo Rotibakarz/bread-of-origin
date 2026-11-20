@@ -1,7 +1,7 @@
 ---
 title: Resources
 socialDescription: Asuka related info, misc tech and guides/streamers.
-socialImage: blank
+socialImage: my-images/tnn-cover-3.gif
 ---
 ![[tnn-stage-3.gif]]
 

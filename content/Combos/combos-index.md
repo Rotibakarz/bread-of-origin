@@ -1,7 +1,7 @@
 ---
 title: Combos
 socialDescription: Optimal Conversions.
-socialImage: blank
+socialImage: my-images/tnn-cover-2.gif
 ---
 ![[tnn-stage-2.gif]]
 
