@@ -1,1 +1,0 @@
-Arpeggio -> bookmark -> highpass -> superjump forwards for an offscreen left-right

@@ -1,0 +1,2 @@
+# IABD BRC Fling Tech
+- bricked hand with 4 Arpeggios? Well worry not! You can c.S IABD FRC j.P back then cast arpeggio to safely cast it, I don't think BRC is enough to save you here so this is an option.

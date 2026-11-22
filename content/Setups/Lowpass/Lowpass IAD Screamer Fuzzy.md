@@ -1,0 +1,2 @@
+# Lowpass Screamer Fuzzy
+- This can be done either with the 6H lowpass setup, or if lowpass is already set down, bookmark > tap mana IAD screamer auto times it, because of how low to the ground you are, screamer will beat 6Ps, ofc they can just crouch block it so deny the fuzzy, but you could probably do the IAD FDC j.K safejump to krill them for it.

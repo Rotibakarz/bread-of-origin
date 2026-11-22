@@ -1,7 +1,7 @@
 ---
 title: Test Case Overview
 ---
-[[index|Home]] ❯ [[resources-index|Resources]] ❯ [[Resources/Test Case Overview|Test Case Overview]]
+[[index|Home]] ❯ [[Resources|Resources]] ❯ [[Resources/Test Case Overview|Test Case Overview]]
 # Test Case Overview
 ![[testcase-overview.png]]
 

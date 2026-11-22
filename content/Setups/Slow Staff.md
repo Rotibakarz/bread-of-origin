@@ -1,10 +1,11 @@
 # Slow Staff
-- Deccel TP Mix
-- DHM gapless fuzzy
-- Deccel 4-way Mix
-- Madison Curry Mix
-- GC Sandwich Special
-- Deccel, DHM, Accipiter in some order, then rising j.K
+Aliases: `Slow Staff`, `Decel`, `Guardcrush Staff`
+- [[DHM Gapless Fuzzy]]
+- [[Decel TP Mix]]
+- [[Decel Accipiter Fuzzy]]
+- [[Decel 4-way Mix]]
+- [[Madison Curry Mix]]
+- [[GC Sandwich Special]]
 
-- Mindcontrol Deccel Fuzzy
-- Forbidden Infinite Scrolls
+- [[Fake Decel Fuzzy]]
+- [[Forbidden Infinite Scrolls]]

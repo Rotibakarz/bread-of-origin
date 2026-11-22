@@ -1,0 +1,5 @@
+# Aquila Crossup
+Copy pasting the explanation from Zikra
+>the Aquila setup from earlier is Aquila -> run up (you need the dashmomentum to crossup, otherwise it just samesides) -> 2D -> recover mana or bookmark -> Rising j.P framekill -> j.K > 7j.K -> 7j.D -> Terra, another Aquila, or an RRC so you can pick the setup up with a combo. You can also convert from it with a Screamer if you did the Aquila close to the corner with your back to the wall, so it wallbounces if you land the setup 
+>Beside that you could convert from a j.K with a hm but it becomes stupidly difficult to pick up from if you don't throw another spell after it, which at that point... isn't worth the resource cost anymore 
+>Using RMS instead of hm is a bit more doable but I don't really remember how easy it is to pick it up with a combo

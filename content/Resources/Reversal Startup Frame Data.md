@@ -24,6 +24,6 @@ socialDescription: List of each character's fastest reversal
 Just because a character has an reversal overdrive doesn't mean they will always have 50 meter, it can be worth checking their meter before deciding between cube oki or a safejump to save resources.
 
 Additional Information:
-- Baiken's 1f parry may seem scary, but it actually loses to projectiles so basic cube on wakeup can be safer, she does however have a 9f metered reversal as well so do watch out for that.
+- Baiken's 1f parry may seem scary, but it actually loses to projectiles so 2D/Cube oki can be safer, she does however have a 9f metered reversal as well so do watch out for that.
 - Ky Kiske despite having a 9f overdrive, will be more likely to use their 11f DP. This means you can knowledge check Ky if he doesn't know the safejump loses to 9f reversals, do watch out because getting hit while in burnout can really REALLY hurt.
 - Potemkin's Heavenly Potemkin Buster actually has invincibility frames on it, allowing it to escape safejumps. But you won't be hit by it either, so it's practically just a 50 meter command jump. 

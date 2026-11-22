@@ -3,7 +3,7 @@ title: Setups Ranking System
 socialDescriptionAsuka Setups: A detailed explanation of how setups are ranked.
 socialImage: blank
 ---
-[[index|Home]] ❯ [[setups-index|Setups]] ❯ [[Setup Ranking System]]
+[[index|Home]] ❯ [[Setups|Setups]] ❯ [[Setup Ranking System]]
 # Setup Ranking System
 Setups are ranked from 1 - 5 based on how useful they are to learn, the more often it can be ideally used and the stronger the setup is, the higher the rank it gets. 
 

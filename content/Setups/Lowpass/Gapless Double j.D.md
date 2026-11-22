@@ -1,0 +1,2 @@
+# Gapless Double j.D
+-  if you do a minor delay on the first j.d > screamer after dhm you can gaplessly do another j.d for mix, if they standblock the screamer you could also just go for the rising j.K fuzzy tho

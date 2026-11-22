@@ -1,3 +1,3 @@
-[[index|Home]] ❯ [[safejumps-index|Safejumps]] ❯ [[Corner Throw]]
+[[index|Home]] ❯ [[Safejumps|Safejumps]] ❯ [[Corner Throw]]
 # Corner Throw
 ![](https://youtu.be/oRjlrxmls0A)

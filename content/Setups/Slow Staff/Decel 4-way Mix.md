@@ -1,0 +1,2 @@
+# Decel 4-way Mix
+- 6H > Decel > DHM > Tap Mana, then you run forward and superjump IAD forward and FDC. The spacing will determine your which side you end on, I typically go for the crossup low cus that's usually the hardest to block, eyeballing the distance can take a bit of practice tho.

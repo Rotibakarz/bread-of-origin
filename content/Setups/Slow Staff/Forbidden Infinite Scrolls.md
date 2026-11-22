@@ -1,0 +1,2 @@
+# Forbidden Infinite Scrolls
+- It is technically still possible to guard crush decel loop someone to death, it's just very RNG and not to mention boring as hell and nobody will want to play against you.

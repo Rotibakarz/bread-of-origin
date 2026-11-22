@@ -3,17 +3,17 @@ title: High/Lows
 socialDescription: '"500 Overheads."'
 socialImage: blank
 ---
-[[index|Home]] ❯ [[setups-index|Setups]] ❯ [[highlow|High/Lows]]
+[[index|Home]] ❯ [[Setups|Setups]] ❯ [[HighLow|High/Lows]]
 # High/Lows
 ## Fuzzies
 - [[TKs]] `5/5`
-- TK BRC Fuzzy
-- Corner j.D BRC j.D fuzzy
-- Dashkara FRC LeftRight Fuzzy 
-- Basic Aquila Fuzzy
+- [[Basic Aquila Fuzzy]] `4/5`
+- [[Basic Tardus Fuzzy]] `4/5`
+- [[TKBRC Fuzzy]] `5/5`
 ## Instant Overheads
 - [[Accipiter Fuzzy]] `3/5`
-- RRC Instant Overhead
 - [[IAD Screamer Fuzzy]] `3/5`
+- [[RRC Instant Overhead]] `2/5`
+- [[Corner BRC fuzzy]]
 ## High/Low Mixups
-- Corner High/Low
+- [[j.S HighLow|j.S High/Low]] `3/5`
