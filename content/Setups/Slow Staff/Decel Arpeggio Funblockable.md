@@ -1,0 +1,2 @@
+# Decel Arpeggio Funblockable
+When Arpeggio and Slow Staff are both placed down, simply jumping back and forth between the opponent is stupid hard to block due to the guardcrush making every cube that contacts the opponent a potential crossup.
